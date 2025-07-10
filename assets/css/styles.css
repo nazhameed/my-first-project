@@ -7,6 +7,10 @@ h2{
     color: orangered;
 }
 
+p{
+    font-weight: bold;
+}
+
 /* body {
     background-color: lightgrey;
     background-image: url(/Users/naziahameed/Documents/vs-code-projects/my-first-project/assets/images/01-02-02_background-img.jpg);
