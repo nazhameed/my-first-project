@@ -3,6 +3,10 @@ body {
     background-image: url(../images/01-02-02_background-img.jpg);
 }
 
+h2{
+    color: orangered;
+}
+
 /* body {
     background-color: lightgrey;
     background-image: url(/Users/naziahameed/Documents/vs-code-projects/my-first-project/assets/images/01-02-02_background-img.jpg);
